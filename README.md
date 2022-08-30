@@ -12,3 +12,6 @@ If you want to chat, feel free to reach me through my website.
 <p>
 
 [![Mcrich23's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcrich23)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mironal&hide=c)](https://github.com/anuraghazra/github-readme-stats)
