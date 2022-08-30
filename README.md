@@ -11,4 +11,4 @@ I am currently in high school in Seattle, WA, and am 15. I have developed some a
 If you want to chat, feel free to reach me through my website.
 <p>
 
-[![Mcrich23's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Mcrich23's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcrich23)](https://github.com/anuraghazra/github-readme-stats)
