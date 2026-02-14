@@ -9,7 +9,7 @@ I am a student at the University of California, Santa Cruz. I love making coding
 
 ## Current Projects
 - [ProxLock](https://proxlock.dev)
-- [Container-Compose](https://github.com/mcrich23/container-compose
+- [Container-Compose](https://github.com/mcrich23/container-compose)
 - [NotPrivateAPIs](https://NotPrivateAPIs.com)
 - My Swift Student Challenge Submission (Stay Tuned 👀)
 - And a whole lot more that is yet to be announced!
