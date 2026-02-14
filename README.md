@@ -7,8 +7,9 @@ My name is Morris!
 
 I am a student at the University of California, Santa Cruz. I love making coding as well as overcomming difficult and unique challenges. 
 
-## Currently Building
+## Current Projects
 - [ProxLock](https://proxlock.dev)
+- [Container-Compose](https://github.com/mcrich23/container-compose
 - [NotPrivateAPIs](https://NotPrivateAPIs.com)
 - My Swift Student Challenge Submission (Stay Tuned 👀)
 - And a whole lot more that is yet to be announced!
