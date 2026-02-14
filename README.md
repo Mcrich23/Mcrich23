@@ -14,5 +14,3 @@ I am a student at the University of California, Santa Cruz. I love making coding
 - And a whole lot more that is yet to be announced!
 
 If you want to chat, feel free to reach me through my website. Speaking of which, checkout my company's github [here](https://github.com/mcrich-llc).
-
-[![Mcrich23's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcrich23)](https://github.com/anuraghazra/github-readme-stats)
